@@ -1,0 +1,22 @@
+repos:
+
+  # --- Trim trailing whitespace, end of file newline ---
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v6.0.0
+    hooks:
+    - id: trailing-whitespace
+    - id: end-of-file-fixer
+
+  # --- Markdown linting ---
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.45.0
+    hooks:
+    - id: markdownlint
+      files: \.md$
+
+    # --- Lint Python code blocks in Markdown
+  - repo: https://github.com/johnfraney/flake8-markdown
+    rev: v0.6.0
+    hooks:
+    - id: flake8-markdown
+      files: \.md$
