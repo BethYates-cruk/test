@@ -1,0 +1,6 @@
+site_name: Test
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - Onboarding: onboarding.md
