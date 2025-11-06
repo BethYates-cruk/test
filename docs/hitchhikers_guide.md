@@ -68,7 +68,6 @@ policy or sci comm.
 * I will be available to meet with you and you have different options how to
 chat:
 <!-- markdownlint-disable -->
-
     * (a) there are weekly group and team meetings for more technical
     discussions,
     * (b) every 6 months we will have a 1-to-1 strategy meeting, where take a
