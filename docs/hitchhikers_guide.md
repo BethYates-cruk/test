@@ -191,4 +191,6 @@ Maybe a scholarship/enrichment scheme/internship
 ### A Staff Scientist
 
 You have just joined as a staff scientist. Here are the expectations we have of
-you and the expectations you can have from the lab
+you and the expectations you can have from the lab.
+
+.....
