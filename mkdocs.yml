@@ -1,6 +1,6 @@
-site_name: Test
+site_name: FM Lab Documentation
 theme:
   name: readthedocs
 nav:
   - Home: index.md
-  - Onboarding: onboarding.md
+  - Hitchhikers Guide to the FM Lab: hitchhikers_guide.md
