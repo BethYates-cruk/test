@@ -1,6 +1,4 @@
-<!-- markdownlint-disable -->
-# The Hitchhikers Guide to the FMLab!
-<!-- markdownlint-enable -->
+# The Hitchhikers Guide to the FMLab
 
 ![don't_panic](img/Dont_panic.png)
 
@@ -67,14 +65,15 @@ differently whether you want a career in science or industry or start-up or
 policy or sci comm.
 * I will be available to meet with you and you have different options how to
 chat:
-<!-- markdownlint-disable -->
-    * (a) there are weekly group and team meetings for more technical
-    discussions,
-    * (b) every 6 months we will have a 1-to-1 strategy meeting, where take a
-    bird-s-eye view of how things are going and the dynamics in the lab, and
-    * (c) you can always knock on my door or schedule a meeting through my PA
-    Sabina
-<!-- markdownlint-enable -->
+    <ol type="a">
+      <li>there are weekly group and team meetings for more technical
+    discussions,</li>
+      <li>every 6 months we will have a 1-to-1 strategy meeting, where
+        take a bird-s-eye view of how things are going and the dynamics in the
+        lab, and</li>
+      <li>you can always knock on my door or schedule a meeting through my
+        PA Sabina.</li>
+    </ol>
 
 This is **what I expect from you**:
 
@@ -82,7 +81,6 @@ This is **what I expect from you**:
 you also don’t go rogue - rather, you proactively come up with ideas and at
 the same time keep me in the loop throughout the process. Particular areas
 of initiative are:
-<!-- markdownlint-disable -->
     * You own your project. You take leadership in it and shape its direction
     with your ideas.
     * You are an active contributor to our lab meetings and the institute
@@ -93,8 +91,7 @@ of initiative are:
     * You build your own network with other scientists at the institute and the
     wider Cambridge community.
     * You participate to this group beyond its research (eg by planning a lab
-  retreat).
-<!-- markdownlint-enable -->
+    retreat).
 
 * I expect you to read widely and know your field inside-out. I expect you to
 think about the impact your project can have on the field and to focus your

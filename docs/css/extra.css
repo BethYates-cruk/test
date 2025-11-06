@@ -1,0 +1,4 @@
+/* Make all <ol type="a"> use lowercase letters */
+ol[type="a"] {
+  list-style-type: lower-alpha;
+}

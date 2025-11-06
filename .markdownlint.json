@@ -1,0 +1,11 @@
+{
+  "default": true,
+
+  // Disable rules that conflict with MkDocs/Material syntax
+  "MD033": { "allowed_elements": ["ol", "li"] }, // Inline HTML (MkDocs uses this sometimes)
+  "MD041": false, // First line should be a top-level heading
+  "MD004": { "style": "consistent" },
+
+  // Allow nested lists without blank lines (common in docs)
+  "MD007": { "indent": 4 }
+}

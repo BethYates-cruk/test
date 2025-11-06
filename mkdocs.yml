@@ -4,3 +4,5 @@ theme:
 nav:
   - Home: index.md
   - Hitchhikers Guide to the FM Lab: hitchhikers_guide.md
+extra_css:
+  - css/extra.css
