@@ -65,15 +65,14 @@ differently whether you want a career in science or industry or start-up or
 policy or sci comm.
 * I will be available to meet with you and you have different options how to
 chat:
-    <ol type="a">
-      <li>there are weekly group and team meetings for more technical
-    discussions,</li>
-      <li>every 6 months we will have a 1-to-1 strategy meeting, where
-        take a bird-s-eye view of how things are going and the dynamics in the
-        lab, and</li>
-      <li>you can always knock on my door or schedule a meeting through my
-        PA Sabina.</li>
-    </ol>
+    1. There are weekly group and team meetings for more technical
+  discussions.
+    2. Every 6 months we will have a 1-to-1 strategy meeting, where
+   take a bird-s-eye view of how things are going and the dynamics in the
+    lab.
+    3. You can always knock on my door or schedule a meeting through my
+    PA Sabina.
+    {: type="a"}
 
 This is **what I expect from you**:
 
