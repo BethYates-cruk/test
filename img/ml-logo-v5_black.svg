@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1105 248" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-10.3302,-76.3986)">
+        <text x="172.89px" y="273.439px" style="font-family:'OpenSans-Light', 'Open Sans';font-weight:300;font-size:57.1px;fill:rgb(19,10,10);">f<tspan x="196.318px 236.084px " y="273.439px 273.439px ">or</tspan></text>
+        <text x="308.33px" y="273.439px" style="font-family:'OpenSans-Light', 'Open Sans';font-weight:300;font-size:57.1px;">C<tspan x="350.048px 389.814px 446.531px 486.799px 526.788px 552.168px 588.699px 614.079px 633.269px 673.034px 713.023px 749.555px 768.745px 812.49px 862.404px 902.393px 935.802px 975.568px 994.758px 1034.52px 1070.47px " y="273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px 273.439px ">omputational Oncology</tspan></text>
+    </g>
+    <g transform="matrix(1,0,0,1,-4,7)">
+        <text x="165.313px" y="126.419px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:110px;">MARK<tspan x="492.893px " y="126.419px ">O</tspan>WET</text>
+        <text x="824.378px" y="126.419px" style="font-family:'Lato-Bold', 'Lato', sans-serif;font-weight:700;font-size:110px;">Z</text>
+        <text x="897.748px" y="126.419px" style="font-family:'Lato-Light', 'Lato', sans-serif;font-weight:300;font-size:110px;fill:rgb(19,10,10);">L</text>
+        <text x="959.513px" y="126.419px" style="font-family:'Lato-Light', 'Lato', sans-serif;font-weight:300;font-size:110px;fill:rgb(19,10,10);">AB</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-151.527)">
+        <path d="M105.768,172.684C109.633,168.056 115.445,165.109 121.94,165.109C133.563,165.109 143,174.546 143,186.17C143,191.214 141.268,195.853 138.307,199.481C138.075,199.841 137.799,200.174 137.573,200.492C134.97,204.165 108.825,234.098 108.825,234.098L80.475,201.502C80.475,201.502 99.716,179.098 105.768,172.684Z" style="fill:rgb(203,100,21);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-76.9346)">
+        <path d="M17.343,127.441C13.285,122.982 11.158,116.822 12.043,110.388C13.627,98.873 24.262,90.81 35.777,92.394C40.774,93.081 45.134,95.429 48.324,98.857C48.65,99.136 48.942,99.455 49.226,99.722C52.51,102.802 125.356,187.974 125.356,187.974C136.864,205.213 125.624,214.206 108.56,233.805C108.56,233.805 22.872,134.311 17.343,127.441Z" style="fill:rgb(71,121,166);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,152.81)">
+        <path d="M47.995,74.355C44.131,78.983 38.319,81.929 31.824,81.929C20.2,81.929 10.763,72.492 10.763,60.869C10.763,55.825 12.495,51.186 15.457,47.558C15.688,47.198 15.964,46.865 16.19,46.546C18.794,42.874 44.939,12.94 44.939,12.94L73.289,45.536C73.289,45.536 54.048,67.941 47.995,74.355Z" style="fill:rgb(71,121,166);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,0,78.2179)">
+        <path d="M136.42,119.598C140.478,124.057 142.605,130.217 141.72,136.651C140.136,148.166 129.501,156.229 117.986,154.645C112.989,153.958 108.629,151.61 105.439,148.182C105.114,147.903 104.822,147.584 104.537,147.317C101.253,144.237 28.408,59.065 28.408,59.065C16.9,41.825 28.14,32.832 45.203,13.233C45.203,13.233 130.891,112.728 136.42,119.598Z" style="fill:rgb(203,100,21);"/>
+    </g>
+</svg>

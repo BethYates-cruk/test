@@ -1,0 +1,36 @@
+/* --- Ordered list types --- */
+
+/* 1. 2. 3. (default numbers) */
+ol[type="1"],
+ol:not([type]) {
+  list-style-type: decimal !important;
+}
+
+/* a. b. c. */
+ol[type="a"] {
+  list-style-type: lower-alpha !important;
+}
+
+/* i. ii. iii. */
+ol[type="i"] {
+  list-style-type: lower-roman !important;
+}
+
+/* A. B. C. */
+ol[type="A"] {
+  list-style-type: upper-alpha !important;
+}
+
+/* I. II. III. */
+ol[type="I"] {
+  list-style-type: upper-roman !important;
+}
+
+/* --- Automatic nested styles --- */
+/* You can make nested lists automatically change style */
+ol ol {
+  list-style-type: lower-alpha !important;
+}
+ol ol ol {
+  list-style-type: lower-roman !important;
+}
